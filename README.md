@@ -1,5 +1,5 @@
-# Yo! 🐧
-I'm just another game dev on the internet who occasionally branches out to other things (essentially a jack-of-some-trades)
+# Hi 🐧
+I'm just a game dev/computer enthusiast who occasionally branches out to other things (essentially a jack-of-some-trades)
 
 Penguins are cool
 
