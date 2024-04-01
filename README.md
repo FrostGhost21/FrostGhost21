@@ -3,6 +3,6 @@ I'm just a game dev/computer enthusiast who occasionally branches out to other t
 
 Penguins are cool
 
-[![My Skills](https://skillicons.dev/icons?i=python,godot,discord,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,godot,discord)](https://skillicons.dev)
 
 (Icons by [Thjis](https://github.com/tandpfun))
